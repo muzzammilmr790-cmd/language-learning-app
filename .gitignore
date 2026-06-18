@@ -31,7 +31,12 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+
+# Large media files
+*.mp4
+*.mov
 
 # typescript
 *.tsbuildinfo
